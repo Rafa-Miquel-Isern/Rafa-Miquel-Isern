@@ -18,7 +18,7 @@ Python · Java · C++ · SQL  · Arduino
     -Built a music playlist application on a circular queue supporting adding, removing, and skipping songs, as well as queue management operations. 
 
 - **[Mini Poker](https://github.com/Rafa-Miquel-Isern/Poker-game)** (Python)
-    - Developed a functional Texas Hold'em poker game that implements official game rules, including betting rounds.
+    - Developed a functional Poker game that implements official game rules, including betting rounds.
 
 ### Contact
 [LinkedIn] www.linkedin.com/in/rafamiquelisern · [Email] rafamiquelisern@gmail.com 
