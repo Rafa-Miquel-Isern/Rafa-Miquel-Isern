@@ -2,7 +2,7 @@
 
 I'm majoring in Computer Engineering and minoring in Artificial Intelligence at North Central College. Also, I'm a freelance web developer running "Ingenia", an AI-powered web studio serving small businesses in Spain.
 
-My favorite program language is C++ since I've been working with Arduino for microcontrollers to create amazing projects such as a mini kart, a dimmable nightlight... 
+My favorite programming language is C++ since I've been working with Arduino for microcontrollers to create amazing projects such as a mini kart, a dimmable nightlight... 
 
 **Currently:** looking for a Summer 2027 internship in hardware, software, AI, or scientific computing.
 
@@ -11,7 +11,7 @@ Python · Java · C++ · SQL  · Arduino
 
 ### Featured projects
 - Tribble Shop / C++:										
-    • Created an OPP-based sales management system using C++ that loads customers, orders, staff and transactions.
+    • Created an OOP-based sales management system using C++ that loads customers, orders, staff and transactions.
     • My role in this project was applying data structures and implementing its logic
 
 - Music playlist / Java										                          
