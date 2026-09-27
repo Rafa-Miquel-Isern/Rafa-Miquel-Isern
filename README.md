@@ -10,15 +10,15 @@ My favorite programming language is C++ since I've been working with Arduino for
 Python · Java · C++ · SQL  · Arduino 
 
 ### Featured projects
-- Tribble Shop / C++:										
-    • Created an OOP-based sales management system using C++ that loads customers, orders, staff and transactions.
-    • My role in this project was applying data structures and implementing its logic
-
+- **[Tribble Shop](https://github.com/Rafa-Miquel-Isern/Tribble-shop-project)** (C++)
+    - OOP-based sales management system that handles customers, orders, staff, and transactions.
+    - My role: applying data structures and implementing the core logic.
+ 
 - Music playlist / Java										                          
-    • Built a music playlist application on a circular queue supporting adding, removing, and skipping songs, as well as queue management operations. 
+    -Built a music playlist application on a circular queue supporting adding, removing, and skipping songs, as well as queue management operations. 
 
-- Poker / Python				   						                       
-    • Developed a functional Texas Hold'em poker game that implements official game rules, including betting rounds.
+- **[Mini Poker](https://github.com/Rafa-Miquel-Isern/Poker-game)** (Python)
+    - Developed a functional Texas Hold'em poker game that implements official game rules, including betting rounds.
 
 ### Contact
 [LinkedIn] www.linkedin.com/in/rafamiquelisern · [Email] rafamiquelisern@gmail.com 
