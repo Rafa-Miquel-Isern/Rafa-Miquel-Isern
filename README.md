@@ -2,7 +2,7 @@
 
 I'm majoring in Computer Engineering and minoring in Artificial Intelligence at North Central College. Also, I'm a freelance web developer running "Ingenia", an AI-powered web studio serving small businesses in Spain.
 
-My favorite programming language is C++ since I've been working with Arduino for microcontrollers to create amazing projects such as a mini kart, a dimmable nightlight... 
+My favorite programming language is C++. I've used it with Arduino microcontrollers to build projects like a mini kart and a dimmable nightlight.
 
 **Currently:** looking for a Summer 2027 internship in hardware, software, AI, or scientific computing.
 
