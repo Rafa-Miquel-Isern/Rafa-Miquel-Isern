@@ -14,7 +14,7 @@ Python · Java · C++ · SQL  · Arduino
     - OOP-based sales management system that handles customers, orders, staff, and transactions.
     - My role: applying data structures and implementing the core logic.
  
-- Music playlist / Java										                          
+- **[Music Playlist](https://github.com/Rafa-Miquel-Isern/Music-Playlist)** (Java)								                          
     -Built a music playlist application on a circular queue supporting adding, removing, and skipping songs, as well as queue management operations. 
 
 - **[Mini Poker](https://github.com/Rafa-Miquel-Isern/Poker-game)** (Python)
