@@ -15,7 +15,7 @@ Python · Java · C++ · SQL  · Arduino
     - My role: applying data structures and implementing the core logic.
  
 - **[Music Playlist](https://github.com/Rafa-Miquel-Isern/Music-Playlist)** (Java)								                          
-    -Built a music playlist application on a circular queue supporting adding, removing, and skipping songs, as well as queue management operations. 
+    - Built a music playlist application on a circular queue supporting adding, removing, and skipping songs, as well as queue management operations. 
 
 - **[Mini Poker](https://github.com/Rafa-Miquel-Isern/Poker-game)** (Python)
     - Card game against the computer with betting, dice-based bust limits, and poker-style hand scoring.
